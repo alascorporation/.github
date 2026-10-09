@@ -40,3 +40,11 @@ Aquí desarrollamos el software que sostiene nuestro ecosistema digital: platafo
 - Programas y colegios: [info@satelab.org](mailto:info@satelab.org)
 - Alianzas: [alianzas@satelab.org](mailto:alianzas@satelab.org)
 - [LinkedIn](https://www.linkedin.com/company/satelab--alas-corp/) · [Facebook](https://www.facebook.com/satelaborg) · [Instagram](https://www.instagram.com/alas.aerospace) · [YouTube](https://www.youtube.com/@alas_corp) · [TikTok](https://www.tiktok.com/@alas.aerospace)
+
+## 🌎 About us (English)
+
+**Corporación SateLab** is a Colombian non-profit organization (*Entidad Sin Ánimo de Lucro*, NIT 901866411-9) registered under the DIAN Special Tax Regime. We are non-governmental, non-commercial, non-political and have no religious affiliation. We are not a school or university.
+
+We bring hands-on aerospace STEAM education to children and young people across Colombia: rocketry, aviation, satellites and space exploration programs delivered in public and private schools. To date we have reached 9,680 participants, 1,356 students and 110 school study groups (*semilleros*) in 9 Colombian departments.
+
+We use GitHub to build and maintain the open digital ecosystem behind our programs: our learning platform, competition and event sites, educational tools and hardware projects (such as CanSat boards), developed with our volunteers and partners.
